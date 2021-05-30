@@ -148,6 +148,11 @@ strong,b {
 .cl {
 	clear:both;
 }
+/*
+隐藏cnzz
+*/
+.cnzz{ display:none}
+
 @media screen and (max-width: 600px) {
     .ad_img {
         width: 1043px!important;
